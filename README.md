@@ -5,6 +5,23 @@ This project is a customer care and service center management system originally 
 
 ---
 
+This project is a legacy desktop application originally developed in **Visual Basic 6 (VB6)** for **MicroCare India**. It served as an internal system to manage customer support and service center operations, including complaint registration, photo capture, customer record maintenance, and service status updates.
+
+This repository is a preservation of the original VB6 codebase, which may be used for future migration to modern technologies like **VB.NET** or **C# WinForms**.
+
+### 🧩 Key Modules:
+- Customer registration and service intake
+- Complaint tracking and history
+- Photo attachment and preview
+- Simple admin workflow
+- MS Access-based local database integration
+
+---
+
+**Note:** VB6 is now a legacy technology and is no longer supported by Microsoft. This code is maintained for reference and educational purposes, especially for legacy migration scenarios.
+
+---
+
 ## 📋 Project Summary
 
 This VB6 application was designed to handle the following:
