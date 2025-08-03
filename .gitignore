@@ -6,6 +6,17 @@
 *.res
 *.obj
 
+# Ignore VS temporary folders
+.vs/
+*.user
+*.suo
+
+# Ignore build and temp files
+*.tmp
+*.log
+bin/
+obj/
+
 # VB6 temporary and environment-specific files
 *.vbw
 *.log
