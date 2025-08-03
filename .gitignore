@@ -1,0 +1,31 @@
+# VB6 compiled binaries
+*.exe
+*.dll
+*.ocx
+*.tlb
+*.res
+*.obj
+
+# VB6 temporary and environment-specific files
+*.vbw
+*.log
+*.tmp
+*.bak
+*.scc
+~$*
+
+# Backup files
+*.old
+*.backup
+
+# IDE folders (if migrated to VS)
+.vs/
+*.user
+*.suo
+*.cache
+*.ide
+*.ncb
+*.aps
+*.idb
+*.pch
+*.ipch
